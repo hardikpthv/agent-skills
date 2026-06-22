@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node (in case skills ship helper scripts)
+node_modules/
+npm-debug.log*
+
+# Local env / secrets — never commit
+.env
+.env.*
+
+# Pro (paid) skills — kept locally, sold/distributed separately; never publish
+pro/

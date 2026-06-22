@@ -1,0 +1,18 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "hardikpthv",
+    "url": "https://github.com/hardikpthv"
+  },
+  "metadata": {
+    "description": "Open-source agent skills, organized by category.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mobile-development",
+      "source": "./skills/mobile-development",
+      "description": "Skills for shipping and monetizing mobile apps — Google Play onboarding and RevenueCat setup."
+    }
+  ]
+}

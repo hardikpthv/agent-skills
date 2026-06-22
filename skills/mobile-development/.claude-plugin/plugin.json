@@ -1,0 +1,19 @@
+{
+  "name": "mobile-development",
+  "displayName": "Mobile Development",
+  "description": "Skills for shipping and monetizing mobile apps — Google Play onboarding and RevenueCat setup.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
+  "license": "MIT",
+  "keywords": [
+    "mobile",
+    "android",
+    "google-play",
+    "revenuecat",
+    "monetization",
+    "onboarding"
+  ],
+  "skills": ["./"]
+}
