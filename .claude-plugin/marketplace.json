@@ -38,6 +38,11 @@
       "name": "ecommerce",
       "source": "./skills/ecommerce",
       "description": "E-commerce — Shopify store onboarding (products, collections, payments, shipping, launch)."
+    },
+    {
+      "name": "social-data",
+      "source": "./skills/social-data",
+      "description": "Skills for setting up public social data workflows with API and MCP tools."
     }
   ]
 }
