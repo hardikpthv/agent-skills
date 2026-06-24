@@ -1,0 +1,19 @@
+{
+  "name": "analytics",
+  "displayName": "Analytics",
+  "description": "Skills for measurement & analytics setup — Google Analytics 4 (GA4) onboarding across web, Android, and iOS.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
+  "license": "MIT",
+  "keywords": [
+    "analytics",
+    "google-analytics",
+    "ga4",
+    "measurement",
+    "firebase",
+    "tracking"
+  ],
+  "skills": ["./"]
+}

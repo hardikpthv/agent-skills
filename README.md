@@ -20,6 +20,7 @@ skill can be loaded by different agents.
 | --- | --- | --- |
 | Mobile Development | [`google-play-onboarding-basic`](skills/mobile-development/google-play-onboarding-basic/) | Guided SOP for publishing a new Android app to the Google Play Store. |
 | Mobile Development | [`revenuecat-onboarding-basic`](skills/mobile-development/revenuecat-onboarding-basic/) | Guided SOP for wiring an app to RevenueCat for in-app purchases & subscriptions. |
+| Analytics | [`google-analytics-onboarding-basic`](skills/analytics/google-analytics-onboarding-basic/) | Guided SOP for setting up Google Analytics 4 (GA4) on web, Android, or iOS. |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 

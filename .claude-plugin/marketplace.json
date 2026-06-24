@@ -13,6 +13,11 @@
       "name": "mobile-development",
       "source": "./skills/mobile-development",
       "description": "Skills for shipping and monetizing mobile apps — Google Play onboarding and RevenueCat setup."
+    },
+    {
+      "name": "analytics",
+      "source": "./skills/analytics",
+      "description": "Skills for measurement & analytics setup — Google Analytics 4 (GA4) onboarding across web, Android, and iOS."
     }
   ]
 }
