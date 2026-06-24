@@ -1,0 +1,20 @@
+{
+  "name": "software-engineering",
+  "displayName": "Software Engineering",
+  "description": "Skills for web engineering quality & security — accessibility (a11y) audits and OWASP-based security/vulnerability audits.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
+  "license": "MIT",
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "wcag",
+    "security",
+    "owasp",
+    "audit",
+    "web"
+  ],
+  "skills": ["./"]
+}

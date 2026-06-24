@@ -18,6 +18,11 @@
       "name": "analytics",
       "source": "./skills/analytics",
       "description": "Skills for measurement & analytics setup — Google Analytics 4 (GA4) onboarding across web, Android, and iOS."
+    },
+    {
+      "name": "software-engineering",
+      "source": "./skills/software-engineering",
+      "description": "Web engineering quality & security — accessibility (a11y) audits and OWASP-based security/vulnerability audits."
     }
   ]
 }

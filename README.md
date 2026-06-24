@@ -21,6 +21,9 @@ skill can be loaded by different agents.
 | Mobile Development | [`google-play-onboarding-basic`](skills/mobile-development/google-play-onboarding-basic/) | Guided SOP for publishing a new Android app to the Google Play Store. |
 | Mobile Development | [`revenuecat-onboarding-basic`](skills/mobile-development/revenuecat-onboarding-basic/) | Guided SOP for wiring an app to RevenueCat for in-app purchases & subscriptions. |
 | Analytics | [`google-analytics-onboarding-basic`](skills/analytics/google-analytics-onboarding-basic/) | Guided SOP for setting up Google Analytics 4 (GA4) on web, Android, or iOS. |
+| Analytics | [`google-tag-manager-onboarding-basic`](skills/analytics/google-tag-manager-onboarding-basic/) | Guided SOP for setting up Google Tag Manager (GTM) — account, container, GA4 tags, publishing. |
+| Software Engineering | [`web-accessibility-audit-basic`](skills/software-engineering/web-accessibility-audit-basic/) | Guided WCAG 2.2 AA accessibility (a11y) audit — automated + manual + assistive-tech. |
+| Software Engineering | [`web-security-audit-basic`](skills/software-engineering/web-security-audit-basic/) | Guided defensive web security audit vs OWASP Top 10 / ASVS — authorized, non-destructive. |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 
