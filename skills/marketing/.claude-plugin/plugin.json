@@ -1,0 +1,19 @@
+{
+  "name": "marketing",
+  "displayName": "Marketing",
+  "description": "Skills for marketing — web SEO audits (technical, on-page, structured data, Core Web Vitals), with more to come.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "seo",
+    "search-engine-optimization",
+    "core-web-vitals",
+    "structured-data",
+    "web"
+  ],
+  "skills": ["./"]
+}

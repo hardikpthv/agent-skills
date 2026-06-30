@@ -28,6 +28,11 @@
       "name": "writing",
       "source": "./skills/writing",
       "description": "Writing & content style — humanizing AI text, tone shifting (empathetic, formal/professional), and legal-document drafting."
+    },
+    {
+      "name": "marketing",
+      "source": "./skills/marketing",
+      "description": "Marketing — web SEO audits (technical, on-page, structured data, Core Web Vitals)."
     }
   ]
 }

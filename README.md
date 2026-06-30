@@ -28,6 +28,7 @@ skill can be loaded by different agents.
 | Writing | [`empathetic-tone-basic`](skills/writing/empathetic-tone-basic/) | Rewrite messages with a warmer, supportive, empathetic tone. |
 | Writing | [`legal-writing-basic`](skills/writing/legal-writing-basic/) | Draft privacy policies, T&C, and disclaimers in formal legal English (not legal advice). |
 | Writing | [`professional-tone-basic`](skills/writing/professional-tone-basic/) | Rewrite casual text into formal, professional, official language. |
+| Marketing | [`web-seo-audit-basic`](skills/marketing/web-seo-audit-basic/) | Guided web SEO audit — technical, Core Web Vitals, on-page, and structured data. |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 
