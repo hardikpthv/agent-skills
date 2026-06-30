@@ -1,0 +1,20 @@
+{
+  "name": "writing",
+  "displayName": "Writing",
+  "description": "Skills for writing & content style — humanizing AI text, tone shifting (empathetic, formal/professional), and legal-document drafting.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "content",
+    "humanizer",
+    "tone",
+    "copywriting",
+    "editing",
+    "legal-writing"
+  ],
+  "skills": ["./"]
+}

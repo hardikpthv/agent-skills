@@ -24,6 +24,7 @@ skill can be loaded by different agents.
 | Analytics | [`google-tag-manager-onboarding-basic`](skills/analytics/google-tag-manager-onboarding-basic/) | Guided SOP for setting up Google Tag Manager (GTM) — account, container, GA4 tags, publishing. |
 | Software Engineering | [`web-accessibility-audit-basic`](skills/software-engineering/web-accessibility-audit-basic/) | Guided WCAG 2.2 AA accessibility (a11y) audit — automated + manual + assistive-tech. |
 | Software Engineering | [`web-security-audit-basic`](skills/software-engineering/web-security-audit-basic/) | Guided defensive web security audit vs OWASP Top 10 / ASVS — authorized, non-destructive. |
+| Writing | [`humanizer-basic`](skills/writing/humanizer-basic/) | Strip AI tells and rewrite text to read naturally human. |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 

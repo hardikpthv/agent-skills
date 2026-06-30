@@ -23,6 +23,11 @@
       "name": "software-engineering",
       "source": "./skills/software-engineering",
       "description": "Web engineering quality & security — accessibility (a11y) audits and OWASP-based security/vulnerability audits."
+    },
+    {
+      "name": "writing",
+      "source": "./skills/writing",
+      "description": "Writing & content style — humanizing AI text, tone shifting (empathetic, formal/professional), and legal-document drafting."
     }
   ]
 }
