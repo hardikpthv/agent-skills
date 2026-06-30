@@ -32,23 +32,44 @@ skill can be loaded by different agents.
 
 _More categories will be added as folders under [`skills/`](skills/)._
 
-## Using these skills
+## Use with your agent
 
-**Any agent:** point it at a skill folder, or copy the folder into wherever your
-agent loads skills from.
+Every skill is a portable [`SKILL.md`](https://agentskills.io) folder, so it works
+with any agent that supports the Agent Skills standard — drop a skill folder into
+your agent's skills directory:
 
-**Claude Code** — either copy a skill folder into `.claude/skills/`, or install a
-whole category via the bundled marketplace:
+| Agent | Global (all projects) | Per-project |
+| --- | --- | --- |
+| Claude Code | `~/.claude/skills/` | `.claude/skills/` |
+| Codex CLI | `~/.codex/skills/` | `.agents/skills/` |
+| Cursor | _(project-scoped)_ | `.cursor/skills/` |
+| Antigravity | `~/.gemini/config/skills/` | `.agents/skills/` |
+
+`.agents/skills/` is the cross-agent **project** standard (read by Codex and Antigravity).
+
+### Quick install (helper script)
+
+```bash
+git clone https://github.com/hardikpthv/agent-skills
+cd agent-skills
+./install.sh claude        # global; or: codex · antigravity
+./install.sh ~/my-project/.cursor/skills    # Cursor / any project path
+```
+
+Restart your agent afterward — skills load at startup.
+
+### Claude Code marketplace (no clone needed)
 
 ```bash
 /plugin marketplace add hardikpthv/agent-skills
-/plugin install mobile-development@agent-skills
+/plugin install mobile-development@agent-skills   # or analytics · software-engineering · writing · marketing
 ```
 
-```bash
-/mobile-development:google-play-onboarding-basic
-/mobile-development:revenuecat-onboarding-basic
-```
+Then invoke, e.g. `/mobile-development:google-play-onboarding-basic`.
+
+### Manual
+
+Copy any `skills/<category>/<skill>/` folder into one of the directories above.
 
 ## Free vs Pro
 
