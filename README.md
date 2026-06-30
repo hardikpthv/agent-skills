@@ -26,6 +26,7 @@ skill can be loaded by different agents.
 | Software Engineering | [`web-security-audit-basic`](skills/software-engineering/web-security-audit-basic/) | Guided defensive web security audit vs OWASP Top 10 / ASVS — authorized, non-destructive. |
 | Writing | [`humanizer-basic`](skills/writing/humanizer-basic/) | Strip AI tells and rewrite text to read naturally human. |
 | Writing | [`empathetic-tone-basic`](skills/writing/empathetic-tone-basic/) | Rewrite messages with a warmer, supportive, empathetic tone. |
+| Writing | [`legal-writing-basic`](skills/writing/legal-writing-basic/) | Draft privacy policies, T&C, and disclaimers in formal legal English (not legal advice). |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 
