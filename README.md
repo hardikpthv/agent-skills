@@ -29,6 +29,7 @@ skill can be loaded by different agents.
 | Writing | [`legal-writing-basic`](skills/writing/legal-writing-basic/) | Draft privacy policies, T&C, and disclaimers in formal legal English (not legal advice). |
 | Writing | [`professional-tone-basic`](skills/writing/professional-tone-basic/) | Rewrite casual text into formal, professional, official language. |
 | Marketing | [`web-seo-audit-basic`](skills/marketing/web-seo-audit-basic/) | Guided web SEO audit — technical, Core Web Vitals, on-page, and structured data. |
+| E-commerce | [`shopify-store-onboarding-basic`](skills/ecommerce/shopify-store-onboarding-basic/) | Guided Shopify store setup — products, collections, payments, shipping, launch. |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 

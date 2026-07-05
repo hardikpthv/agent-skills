@@ -33,6 +33,11 @@
       "name": "marketing",
       "source": "./skills/marketing",
       "description": "Marketing — web SEO audits (technical, on-page, structured data, Core Web Vitals)."
+    },
+    {
+      "name": "ecommerce",
+      "source": "./skills/ecommerce",
+      "description": "E-commerce — Shopify store onboarding (products, collections, payments, shipping, launch)."
     }
   ]
 }

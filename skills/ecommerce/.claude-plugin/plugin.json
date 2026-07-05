@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "displayName": "E-commerce",
+  "description": "Skills for e-commerce — Shopify store onboarding (products, collections, payments, shipping, launch), with more to come.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "store",
+    "online-store",
+    "merchant",
+    "commerce"
+  ],
+  "skills": ["./"]
+}
