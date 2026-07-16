@@ -21,6 +21,7 @@ skill can be loaded by different agents.
 | Mobile Development | [`google-play-onboarding-basic`](skills/mobile-development/google-play-onboarding-basic/) | Guided SOP for publishing a new Android app to the Google Play Store. |
 | Mobile Development | [`revenuecat-onboarding-basic`](skills/mobile-development/revenuecat-onboarding-basic/) | Guided SOP for wiring an app to RevenueCat for in-app purchases & subscriptions. |
 | Mobile Development | [`admob-onboarding-basic`](skills/mobile-development/admob-onboarding-basic/) | Integrate Google AdMob to monetize an app with ads — SDK, ad units, UMP consent, policy-safe. |
+| Mobile Development | [`mobile-app-qa-basic`](skills/mobile-development/mobile-app-qa-basic/) | Pre-production mobile QA — test types, monkey/stress, device matrix, pre-launch report, staged rollout. |
 | Analytics | [`google-analytics-onboarding-basic`](skills/analytics/google-analytics-onboarding-basic/) | Guided SOP for setting up Google Analytics 4 (GA4) on web, Android, or iOS. |
 | Analytics | [`google-tag-manager-onboarding-basic`](skills/analytics/google-tag-manager-onboarding-basic/) | Guided SOP for setting up Google Tag Manager (GTM) — account, container, GA4 tags, publishing. |
 | Software Engineering | [`web-accessibility-audit-basic`](skills/software-engineering/web-accessibility-audit-basic/) | Guided WCAG 2.2 AA accessibility (a11y) audit — automated + manual + assistive-tech. |
