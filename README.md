@@ -4,8 +4,8 @@ Open-source **agent skills** — reusable, self-contained capabilities written i
 the portable [`SKILL.md`](https://agentskills.io) format, usable by any AI agent
 that supports skills. Organized by category under [`skills/`](skills/).
 
-Skills are diverse by design: today it's mobile development, with software
-engineering, marketing, and more to come.
+Skills are diverse by design, spanning mobile development, analytics, software
+engineering, writing, marketing, e-commerce, and social data.
 
 ## What's a skill?
 
@@ -32,6 +32,7 @@ skill can be loaded by different agents.
 | Writing | [`professional-tone-basic`](skills/writing/professional-tone-basic/) | Rewrite casual text into formal, professional, official language. |
 | Marketing | [`web-seo-audit-basic`](skills/marketing/web-seo-audit-basic/) | Guided web SEO audit — technical, Core Web Vitals, on-page, and structured data. |
 | E-commerce | [`shopify-store-onboarding-basic`](skills/ecommerce/shopify-store-onboarding-basic/) | Guided Shopify store setup — products, collections, payments, shipping, launch. |
+| Social Data | [`xquik-public-data-basic`](skills/social-data/xquik-public-data-basic/) | Guided SOP for setting up Xquik public X/Twitter data workflows with REST API or MCP. |
 
 _More categories will be added as folders under [`skills/`](skills/)._
 
@@ -65,7 +66,7 @@ Restart your agent afterward — skills load at startup.
 
 ```bash
 /plugin marketplace add hardikpthv/agent-skills
-/plugin install mobile-development@agent-skills   # or analytics · software-engineering · writing · marketing
+/plugin install mobile-development@agent-skills   # or analytics · software-engineering · writing · marketing · ecommerce · social-data
 ```
 
 Then invoke, e.g. `/mobile-development:google-play-onboarding-basic`.

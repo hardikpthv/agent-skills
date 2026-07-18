@@ -1,0 +1,24 @@
+{
+  "name": "social-data",
+  "displayName": "Social Data",
+  "description": "Skills for setting up public social data workflows with API and MCP tools.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hardikpthv/agent-skills",
+  "repository": "https://github.com/hardikpthv/agent-skills",
+  "author": {
+    "name": "hardikpthv",
+    "url": "https://github.com/hardikpthv"
+  },
+  "license": "MIT",
+  "keywords": [
+    "social-data",
+    "x",
+    "twitter",
+    "api",
+    "mcp",
+    "onboarding"
+  ],
+  "skills": [
+    "./"
+  ]
+}
