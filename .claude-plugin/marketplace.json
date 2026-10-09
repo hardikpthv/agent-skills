@@ -12,7 +12,7 @@
     {
       "name": "mobile-development",
       "source": "./skills/mobile-development",
-      "description": "Skills for shipping and monetizing mobile apps — Google Play onboarding and RevenueCat setup."
+      "description": "Skills for shipping and monetizing mobile apps — Google Play & App Store onboarding, RevenueCat, AdMob, and pre-release QA."
     },
     {
       "name": "analytics",

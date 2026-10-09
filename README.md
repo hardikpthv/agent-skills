@@ -19,6 +19,7 @@ skill can be loaded by different agents.
 | Category | Skill | What it does |
 | --- | --- | --- |
 | Mobile Development | [`google-play-onboarding-basic`](skills/mobile-development/google-play-onboarding-basic/) | Guided SOP for publishing a new Android app to the Google Play Store. |
+| Mobile Development | [`app-store-onboarding-basic`](skills/mobile-development/app-store-onboarding-basic/) | Guided SOP for publishing a new iOS app to the Apple App Store via App Store Connect. |
 | Mobile Development | [`revenuecat-onboarding-basic`](skills/mobile-development/revenuecat-onboarding-basic/) | Guided SOP for wiring an app to RevenueCat for in-app purchases & subscriptions. |
 | Mobile Development | [`admob-onboarding-basic`](skills/mobile-development/admob-onboarding-basic/) | Integrate Google AdMob to monetize an app with ads — SDK, ad units, UMP consent, policy-safe. |
 | Mobile Development | [`mobile-app-qa-basic`](skills/mobile-development/mobile-app-qa-basic/) | Pre-production mobile QA — test types, monkey/stress, device matrix, pre-launch report, staged rollout. |
