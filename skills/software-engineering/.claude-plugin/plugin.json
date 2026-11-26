@@ -1,8 +1,8 @@
 {
   "name": "software-engineering",
   "displayName": "Software Engineering",
-  "description": "Skills for web engineering quality & security — accessibility (a11y) audits and OWASP-based security/vulnerability audits.",
-  "version": "0.1.0",
+  "description": "Software engineering — repo setup, agent context & project memory, clean code, a11y and OWASP security audits, and web-filter domain categorisation.",
+  "version": "0.2.0",
   "homepage": "https://github.com/hardikpthv/agent-skills",
   "repository": "https://github.com/hardikpthv/agent-skills",
   "author": { "name": "hardikpthv", "url": "https://github.com/hardikpthv" },
@@ -14,7 +14,11 @@
     "security",
     "owasp",
     "audit",
-    "web"
+    "web",
+    "web-filter",
+    "domain-categorisation",
+    "repo-setup",
+    "agents-md"
   ],
   "skills": ["./"]
 }

@@ -22,7 +22,7 @@
     {
       "name": "software-engineering",
       "source": "./skills/software-engineering",
-      "description": "Web engineering quality & security — accessibility (a11y) audits and OWASP-based security/vulnerability audits."
+      "description": "Software engineering — repo setup, agent context & project memory, clean code, a11y and OWASP security audits, and web-filter domain categorisation."
     },
     {
       "name": "writing",
